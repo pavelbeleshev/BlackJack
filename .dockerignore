@@ -1,0 +1,10 @@
+bin/
+obj/
+*.log
+*.csproj.lscache
+.idea/
+.vscode/
+.git/
+.gitignore
+README.md
+.DS_Store
