@@ -1,7 +1,4 @@
-using System.Collections.Generic;
-using System.Linq;
-
-namespace BlackjackServer;
+namespace BlackjackServer.Models;
 
 public class Player
 {

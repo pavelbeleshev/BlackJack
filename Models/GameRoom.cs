@@ -1,16 +1,5 @@
-using System.Collections.Generic;
-using System.Linq;
-
-namespace BlackjackServer;
-
-public enum GameState
-{
-    Waiting,
-    Betting,
-    Playing,
-    DealerTurn,
-    Finished
-}
+using BlackjackServer.Models;
+namespace BlackjackServer.Models;
 
 public class GameRoom
 {
@@ -26,4 +15,13 @@ public class GameRoom
     
     public bool IsFull => Players.Count >= 2;
     public bool IsEmpty => Players.Count == 0;
+}
+
+public enum GameState
+{
+    Waiting,    // Ждём второго игрока
+    Betting,    // Делаем ставки
+    Playing,    // Идёт игра
+    DealerTurn, // Ход дилера
+    Finished    // Раунд окончен
 }

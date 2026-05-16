@@ -13,12 +13,13 @@
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/BlackjackServer.AssemblyInfo.cs
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/BlackjackServer.csproj.CoreCompileInputs.cache
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/BlackjackServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/project/BlackjackServer/obj/Debug/net10.0/BlackjackServer.sourcelink.json
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/scopedcss/bundle/BlackjackServer.styles.css
-/Users/user/project/BlackjackServer/obj/Debug/net10.0/compressed/3h56ndl5k8-{0}-8fjnysx0qm-8fjnysx0qm.gz
-/Users/user/project/BlackjackServer/obj/Debug/net10.0/compressed/v6xpvbpsz1-{0}-si5t8xefo1-si5t8xefo1.gz
+/Users/user/project/BlackjackServer/obj/Debug/net10.0/compressed/3h56ndl5k8-{0}-pis347la91-pis347la91.gz
+/Users/user/project/BlackjackServer/obj/Debug/net10.0/compressed/v6xpvbpsz1-{0}-h2piqz78vv-h2piqz78vv.gz
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/staticwebassets.build.json
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/staticwebassets.build.json.cache
 /Users/user/project/BlackjackServer/obj/Debug/net10.0/staticwebassets.development.json
